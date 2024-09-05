@@ -1,0 +1,6 @@
+@dotnet_asp_webapi_identity_example1_HostAddress = http://localhost:5147
+
+GET {{dotnet_asp_webapi_identity_example1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
